@@ -1,0 +1,74 @@
+{
+  "name": "fish",
+  "symbol": "scm",
+  "description": "some scumbies",
+  "seller_fee_basis_points": 1000,
+  "image": "https://arweave.net/_TcBzWcQul6dMi5sHiy_l-JKKIOUlXqgRy4lbxK5pg4?ext=png",
+  "external_url": "https://www.youtube.com/c/hashlipsnft",
+  "edition": 8,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "SCUMBY45"
+    },
+    {
+      "trait_type": "body",
+      "value": "scumby50"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "SCUMBY56"
+    },
+    {
+      "trait_type": "eyebrows",
+      "value": "SCUMBY79"
+    },
+    {
+      "trait_type": "nose",
+      "value": "SCUMBY76"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "SCUMBY71"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "SCUMBY142"
+    },
+    {
+      "trait_type": "accessories",
+      "value": "SCUMBY14"
+    },
+    {
+      "trait_type": "accessories-2",
+      "value": "SCUMBY84"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://arweave.net/_TcBzWcQul6dMi5sHiy_l-JKKIOUlXqgRy4lbxK5pg4?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "6xbBaXh8KanHaMTiT6z6KVMhNkRkmszH5TXhBMrXJEdq",
+        "share": 100
+      }
+    ]
+  },
+  "status": [
+    {
+      "name": "Secondary Market",
+      "value": 1,
+      "type": "primarySaleHappened"
+    },
+    {
+      "name": "Mutable",
+      "value": 1,
+      "type": "primarySaleHappened"
+    }
+  ]
+}
