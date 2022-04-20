@@ -3,7 +3,7 @@
   "symbol": "scm",
   "description": "some scumbies",
   "seller_fee_basis_points": 1000,
-  "image": "https://github.com/degen777/hehe/blob/main/image.png",
+  "image": "https://raw.githubusercontent.com/degen777/hehe/main/image.png",
   "external_url": "https://www.youtube.com/c/hashlipsnft",
   "edition": 8,
   "attributes": [
